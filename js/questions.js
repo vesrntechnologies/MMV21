@@ -552,7 +552,7 @@
       "Hazard lights",
       "Front air bag"
     ]
-  }
+  },
 ];
 
   // you can uncomment the below codes and make duplicate as more as you want to add question
@@ -569,4 +569,4 @@
   //     "option 4"
   //   ]
   // },
-];
+//];
