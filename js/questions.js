@@ -148,7 +148,7 @@
   },
   {
     numb: 14,
-    question: "What is the name of the part marked as ‘X’ shown in the figure?",
+    question: "What is the name of the part marked as X shown in the figure?",
     answer: "Lip seal",
     options: [
       "Thrust washer",
@@ -247,7 +247,7 @@
   },
   {
     numb: 23,
-    question: "What is the name of the part marked as ‘X’ shown in the figure?",
+    question: "What is the name of the part marked as X shown in the figure?",
     answer: "Synchronizer sleeve",
     options: [
       "Gear",
@@ -258,7 +258,7 @@
   },
   {
     numb: 24,
-    question: "What is the name of the part marked as ‘X’ shown in the figure?",
+    question: "What is the name of the part marked as X shown in the figure?",
     answer: "Balls",
     options: [
       "Wheel end",
@@ -269,7 +269,7 @@
   },
   {
     numb: 25,
-    question: "What is the name of the part marked as ‘X’ shown in the figure?",
+    question: "What is the name of the part marked as X shown in the figure?",
     answer: "Ball star",
     options: [
       "Wheel end",
@@ -324,7 +324,7 @@
   },
   {
     numb: 30,
-    question: "What is the name of part marked as ‘X’ shown in the figure?",
+    question: "What is the name of part marked as X shown in the figure?",
     answer: "Shaft wheel end",
     options: [
       "Spider",
