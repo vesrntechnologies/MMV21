@@ -5,6 +5,7 @@
   {
     numb: 1,
     question: "What is the name of the part marked as X shown in the figure?",
+        immg:"img1",
     answer: "Clutch housing",
     options: [
       "Steering wheel",
@@ -38,6 +39,7 @@
   {
     numb: 4,
     question: "What is the name of the clutch shown in the figure?",
+          immg:"img4",
     answer: "Single plate clutch with coil spring",
     options: [
       "Cone clutch",
@@ -49,6 +51,7 @@
   {
     numb: 5,
     question: "What is the name of the clutch shown in the figure?",
+          immg:"img5",
     answer: "Cone clutch",
     options: [
       "Single plate clutch",
@@ -60,6 +63,7 @@
   {
     numb: 6,
     question: "What is the name of the clutch shown in the figure?",
+          immg:"img6",
     answer: "Diaphragm spring type clutch",
     options: [
       "Cone clutch",
@@ -71,6 +75,7 @@
   {
     numb: 7,
     question: "What is the name of part marked as X shown in the figure?",
+          immg:"img7",
     answer: "Sleeve",
     options: [
       "Splined shaft",
@@ -82,6 +87,7 @@
   {
     numb: 8,
     question: "What is the name of the clutch shown in the figure?",
+          immg:"img8",
     answer: "Fluid coupling clutch",
     options: [
       "Single plate clutch",
@@ -93,6 +99,7 @@
   {
     numb: 9,
     question: "What is the name of the clutch shown in the figure?",
+          immg:"img9",
     answer: "Multi plate clutch",
     options: [
       "Cone clutch",
@@ -104,6 +111,7 @@
   {
     numb: 10,
     question: "What is the name of part marked as X shown in the figure?",
+          immg:"img10",
     answer: "Interior fins",
     options: [
       "Driving unit impeller",
@@ -127,6 +135,7 @@
   {
     numb: 12,
     question: "What is the name of the tool marked as X shown in the figure?",
+          immg:"img12",
     answer: "Clutch aligner",
     options: [
       "Straight edge",
@@ -138,6 +147,7 @@
   {
     numb: 13,
     question: "What is the name of the instrument marked as X shown in the figure?",
+          immg:"img13",
     answer: "Dial test indicator",
     options: [
       "Outside micrometer",
@@ -149,6 +159,7 @@
   {
     numb: 14,
     question: "What is the name of the part marked as X shown in the figure?",
+          immg:"img14",
     answer: "Lip seal",
     options: [
       "Thrust washer",
@@ -160,6 +171,7 @@
   {
     numb: 15,
     question: "What is the type of the gearbox shown in the figure?",
+          immg:"img15",
     answer: "Constant mesh gear box",
     options: [
       "Constant mesh gear box",
@@ -171,6 +183,7 @@
   {
     numb: 16,
     question: "What is the type of the gearbox shown in the figure?",
+          immg:"img16",
     answer: "Sliding mesh gear box",
     options: [
       "Constant mesh gear box",
@@ -193,6 +206,7 @@
   {
     numb: 18,
     question: "What is the type of constant velocity joint shown in the figure?",
+          immg:"img18",
     answer: "Tripod joint",
     options: [
       "Pot joint",
@@ -204,6 +218,7 @@
   {
     numb: 19,
     question: "What is the type of drive line shown in the figure?",
+          immg:"img19",
     answer: "Rear wheel drive line",
     options: [
       "Front wheel drive line",
@@ -215,6 +230,7 @@
   {
     numb: 20,
     question: "What is the type of drive line shown in the figure?",
+          immg:"img20",
     answer: "Front wheel drive line",
     options: [
       "Front wheel drive line",
@@ -226,6 +242,7 @@
   {
     numb: 21,
     question: "What is the type of synchromesh gear box shown in the figure?",
+          immg:"img21",
     answer: "Baulk ring type",
     options: [
       "Baulk ring type",
@@ -237,6 +254,7 @@
   {
     numb: 22,
     question: "What is the type of synchromesh gear box shown in the figure?",
+          immg:"img22",
     answer: "Baulk type",
     options: [
       "Baulk ring type",
@@ -248,6 +266,7 @@
   {
     numb: 23,
     question: "What is the name of the part marked as X shown in the figure?",
+          immg:"img23",
     answer: "Synchronizer sleeve",
     options: [
       "Gear",
@@ -259,6 +278,7 @@
   {
     numb: 24,
     question: "What is the name of the part marked as X shown in the figure?",
+          immg:"img24",
     answer: "Balls",
     options: [
       "Wheel end",
@@ -270,6 +290,7 @@
   {
     numb: 25,
     question: "What is the name of the part marked as X shown in the figure?",
+          immg:"img25",
     answer: "Ball star",
     options: [
       "Wheel end",
@@ -281,6 +302,7 @@
   {
     numb: 26,
     question: "What is the type of joint shown in the figure?",
+          immg:"img26",
     answer: "Cross type universal joint",
     options: [
       "Tripod joint",
@@ -292,6 +314,7 @@
   {
     numb: 27,
     question: "What is the type of drive shown in the figure?",
+          immg:"img27",
     answer: "Torque tube drive",
     options: [
       "Torque tube drive",
@@ -325,6 +348,7 @@
   {
     numb: 30,
     question: "What is the name of part marked as X shown in the figure?",
+          immg:"img30",
     answer: "Shaft wheel end",
     options: [
       "Spider",
@@ -523,6 +547,7 @@
   {
     numb: 48,
     question: "Choose the right option for given symbol.",
+          immg:"img48",
     answer: "Battery warning",
     options: [
       "Battery warning",
@@ -534,6 +559,7 @@
   {
     numb: 49,
     question: "Choose the right option for given symbol.",
+          immg:"img49",
     answer: "Low fuel",
     options: [
       "Low fuel",
@@ -545,6 +571,7 @@
   {
     numb: 50,
     question: "Choose the right option for given symbol.",
+    immg:"img50",
     answer: "Hazard lights",
     options: [
       "Battery warning",
@@ -553,7 +580,7 @@
       "Front air bag"
     ]
   },
-]
+
 
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
